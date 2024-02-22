@@ -1,5 +1,5 @@
 # Online-Sales-Analysis
-An E-commerce Sales Company based in the United State seeks to create a sales dynamic dashboard with specific features to display year-to-date (YTD) sales information and generate insights for operational monitoring and strategic business decisions.
+An online commerce business in the United State seeks to create a sales dynamic dashboard with specific features to display year-to-date (YTD) sales information and generate insights for operational monitoring and strategic business decisions.
 
 ## Content
 - [Introduction](#introduction)
